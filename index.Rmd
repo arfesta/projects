@@ -1,3 +1,17 @@
+---
+title: Past and current projects
+date: "last update: `r format(Sys.Date(), format = '%d %B %Y')`" 
+output: 
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: false
+    toc_float: 
+      collapsed: false
+      smooth_scroll: true
+calendar: true
+---
+
 ### Loblolly Pine Studies:
 
 The studies included below were conducted at North Carolina State University as a part of completing my PhD in Functional Genomics & Forestry.  The general focus of these projects is on genetic improvment of loblolly pine.
