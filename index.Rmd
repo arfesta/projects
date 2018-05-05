@@ -1,6 +1,15 @@
 ---
 title: Past and current projects
-output: html_document
+date: "last update: `r format(Sys.Date(), format = '%d %B %Y')`" 
+output: 
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: false
+    toc_float: 
+      collapsed: false
+      smooth_scroll: true
+calendar: true
 ---
 
 ### Loblolly Pine Studies:
