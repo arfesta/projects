@@ -26,6 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Breeding Value Prediction: "https://arfesta.github.io/Breeding-Value-Prediction/"
+    - SimBreeder R package: "https://arfesta.github.io/SimBreeder/"
+    - RNAseq DE analysis: "https://arfesta.github.io/RNAseq-DE-analysis/"
   Author's home: "https://arfesta.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
