@@ -3,6 +3,7 @@ layout: post
 title: Welcome to my home page!
 gh-repo: arfesta/
 gh-badge: [star, fork, follow]
+bigimg: /img/path.jpg
 tags: [welcome]
 ---
 
